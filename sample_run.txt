@@ -1,0 +1,56 @@
+        CCCCCCCCCCCCChhhhhhh                                       tttt               BBBBBBBBBBBBBBBBB                             tttt          
+     CCC::::::::::::Ch:::::h                                    ttt:::t               B::::::::::::::::B                         ttt:::t          
+   CC:::::::::::::::Ch:::::h                                    t:::::t               B::::::BBBBBB:::::B                        t:::::t          
+  C:::::CCCCCCCC::::Ch:::::h                                    t:::::t               BB:::::B     B:::::B                       t:::::t          
+ C:::::C       CCCCCC h::::h hhhhh         aaaaaaaaaaaaa  ttttttt:::::ttttttt           B::::B     B:::::B   ooooooooooo   ttttttt:::::ttttttt    
+C:::::C               h::::hh:::::hhh      a::::::::::::a t:::::::::::::::::t           B::::B     B:::::B oo:::::::::::oo t:::::::::::::::::t    
+C:::::C               h::::::::::::::hh    aaaaaaaaa:::::at:::::::::::::::::t           B::::BBBBBB:::::B o:::::::::::::::ot:::::::::::::::::t    
+C:::::C               h:::::::hhh::::::h            a::::atttttt:::::::tttttt           B:::::::::::::BB  o:::::ooooo:::::otttttt:::::::tttttt    
+C:::::C               h::::::h   h::::::h    aaaaaaa:::::a      t:::::t                 B::::BBBBBB:::::B o::::o     o::::o      t:::::t          
+C:::::C               h:::::h     h:::::h  aa::::::::::::a      t:::::t                 B::::B     B:::::Bo::::o     o::::o      t:::::t          
+C:::::C               h:::::h     h:::::h a::::aaaa::::::a      t:::::t                 B::::B     B:::::Bo::::o     o::::o      t:::::t          
+ C:::::C       CCCCCC h:::::h     h:::::ha::::a    a:::::a      t:::::t    tttttt       B::::B     B:::::Bo::::o     o::::o      t:::::t    tttttt
+  C:::::CCCCCCCC::::C h:::::h     h:::::ha::::a    a:::::a      t::::::tttt:::::t     BB:::::BBBBBB::::::Bo:::::ooooo:::::o      t::::::tttt:::::t
+   CC:::::::::::::::C h:::::h     h:::::ha:::::aaaa::::::a      tt::::::::::::::t     B:::::::::::::::::B o:::::::::::::::o      tt::::::::::::::t
+     CCC::::::::::::C h:::::h     h:::::h a::::::::::aa:::a       tt:::::::::::tt     B::::::::::::::::B   oo:::::::::::oo         tt:::::::::::tt
+        CCCCCCCCCCCCC hhhhhhh     hhhhhhh  aaaaaaaaaa  aaaa         ttttttttttt       BBBBBBBBBBBBBBBBB      ooooooooooo             ttttttttttt 
+Hello. I'm Bob Robber. What is your name?
+>> K
+Say something to me!
+>> K:
+You didn't say anything, would you like me to ask you something?
+Bob Robber: Do you really think so?
+>> K:no
+Bob Robber: Ok say something!
+>> K: tacos 
+Bob Robber: What else do you like my favorite food is french fries?
+>> K: not meat 
+Bob Robber: Ok say something!
+>> K: math 
+Bob Robber: math is my favorite class, tell me more about your favorite class!
+>> K:Goodbye
+Goodbye. It was nice talking to you.
+Would you like to chat again? (y/n)n
+                                                                   dddddddd                                                                        
+        GGGGGGGGGGGGG                                              d::::::d     BBBBBBBBBBBBBBBBB                                              !!!   
+     GGG::::::::::::G                                              d::::::d     B::::::::::::::::B                                            !!:!!
+   GG:::::::::::::::G                                              d::::::d     B::::::BBBBBB:::::B                                           !:::!
+  G:::::GGGGGGGG::::G                                              d:::::d      BB:::::B     B:::::B                                          !:::!
+ G:::::G       GGGGGG   ooooooooooo      ooooooooooo       ddddddddd:::::d        B::::B     B:::::Byyyyyyy           yyyyyyy eeeeeeeeeeee    !:::!
+G:::::G               oo:::::::::::oo  oo:::::::::::oo   dd::::::::::::::d        B::::B     B:::::B y:::::y         y:::::yee::::::::::::ee  !:::!
+G:::::G              o:::::::::::::::oo:::::::::::::::o d::::::::::::::::d        B::::BBBBBB:::::B   y:::::y       y:::::ye::::::eeeee:::::ee!:::!
+G:::::G    GGGGGGGGGGo:::::ooooo:::::oo:::::ooooo:::::od:::::::ddddd:::::d        B:::::::::::::BB     y:::::y     y:::::ye::::::e     e:::::e!:::!
+G:::::G    G::::::::Go::::o     o::::oo::::o     o::::od::::::d    d:::::d        B::::BBBBBB:::::B     y:::::y   y:::::y e:::::::eeeee::::::e!:::!
+G:::::G    GGGGG::::Go::::o     o::::oo::::o     o::::od:::::d     d:::::d        B::::B     B:::::B     y:::::y y:::::y  e:::::::::::::::::e !:::!
+G:::::G        G::::Go::::o     o::::oo::::o     o::::od:::::d     d:::::d        B::::B     B:::::B      y:::::y:::::y   e::::::eeeeeeeeeee  !!:!!
+ G:::::G       G::::Go::::o     o::::oo::::o     o::::od:::::d     d:::::d        B::::B     B:::::B       y:::::::::y    e:::::::e            !!! 
+  G:::::GGGGGGGG::::Go:::::ooooo:::::oo:::::ooooo:::::od::::::ddddd::::::dd     BB:::::BBBBBB::::::B        y:::::::y     e::::::::e               
+   GG:::::::::::::::Go:::::::::::::::oo:::::::::::::::o d:::::::::::::::::d     B:::::::::::::::::B          y:::::y       e::::::::eeeeeeee   !!! 
+     GGG::::::GGG:::G oo:::::::::::oo  oo:::::::::::oo   d:::::::::ddd::::d     B::::::::::::::::B          y:::::y         ee:::::::::::::e  !!:!!
+        GGGGGG   GGGG   ooooooooooo      ooooooooooo      ddddddddd   ddddd     BBBBBBBBBBBBBBBBB          y:::::y            eeeeeeeeeeeeee   !!! 
+                                                                                                          y:::::y                                  
+                                                                                                         y:::::y                                   
+                                                                                                        y:::::y                                    
+                                                                                                       y:::::y                                     
+                                                                                                      yyyyyyy                                      
+>>> 
